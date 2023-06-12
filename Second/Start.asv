@@ -1,0 +1,15 @@
+close all;
+clear all;
+clc;
+
+n = 500;
+
+M(n)
+only_sin(n)
+only_cos(n)
+
+n = 500;
+
+M(n)
+only_sin(n)
+only_cos(n)
